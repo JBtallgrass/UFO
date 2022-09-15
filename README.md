@@ -16,7 +16,7 @@ The enhancement to the webpage centers on the searchable table shown here:
 The purpose of the assignment was to apply JavaScript, CSS, and HTML languages to combine into a usable data source.  
 
 ## 👽 Results:
-The results of the project 
+The results of the project provide additonal resources to the client therfore supporting their object to provide coverage on the topic of UFOs.
 
 
 
