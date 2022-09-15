@@ -14,10 +14,10 @@ The enhancement to the webpage centers on the searchable table shown here:
 
 
 ## 👽 Purpose:
-The purpose of the assignment was to apply JavaScript, CSS, and HTML languages to combine into a usable data source.  
+The purpose of the assignment was to apply JavaScript, CSS, and HTML languages to combine into a usable data source.  Addtional capabilites within the webpage provides a searchable source that supports continued coverage for potential journal projects and assignments. With the added capabilty, the client can have a single term or multiple terms to identify UFO sightings.
 
 ## 👽 Results:
-The results of the project provide additonal resources to the client therfore supporting their object to provide coverage on the topic of UFOs.
+The results of the project provide additonal resources to the client therfore supporting their object to provide coverage on the topic of UFOs.  The additon of the multiple search criteria make the webpage more valuable. Continued revision and adding of data will make the end product better for the client.
 
 
 
