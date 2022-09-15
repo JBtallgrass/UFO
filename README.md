@@ -10,7 +10,8 @@ ________________________________
 
 ## Results:
 
-![Landing Page](/assets/images/tux.png)
+![Landing Page](https://github.com/JBtallgrass/UFO/blob/main/UFO/Static/images/Landing%20page.png)
+
 
 
 ## Summary:
