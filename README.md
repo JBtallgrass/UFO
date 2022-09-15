@@ -6,6 +6,7 @@ The assignment surrounded assisitng the client with the enhancement of their web
 __________________________________
 ## 👽 Overview of the webpage
 The user will begin on the landing page, which provides a quick summary of the project.  This is where the user is enticed to continue beyond the webpage introduction.
+
 ![Landing Page ](https://github.com/JBtallgrass/UFO/blob/main/Static/images/Landing%20page.png)
 
 The enhancement to the webpage centers on the searchable table shown here: 
