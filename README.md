@@ -10,9 +10,8 @@ ________________________________
 
 ## Results:
 
-![ Landing Page ](https://github.com/JBtallgrass/UFO/blob/main/UFO/Static/images/Landing%20page.png)
-
-![ Search Window] 
+![ Landing Page ](https://github.com/JBtallgrass/UFO/blob/main/Static/images/Landing%20page.png)
+![ Search Window] (https://github.com/JBtallgrass/UFO/blob/main/Static/images/
 
 ## Summary:
 
