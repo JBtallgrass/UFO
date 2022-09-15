@@ -10,6 +10,8 @@ ________________________________
 
 ## Results:
 
+![Landing Page](/assets/images/tux.png)
+
 
 ## Summary:
 
